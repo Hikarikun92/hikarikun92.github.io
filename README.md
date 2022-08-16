@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Lucas José dos Santos Souza
 
-You can use the [editor on GitHub](https://github.com/Hikarikun92/hikarikun92.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, and welcome to my personal website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, you can find a little bit about me and my work as a **software developer specialist**.
 
-### Markdown
+### Carreer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My life as a software developer began in 2010, as I started my graduation course in Computer Engineering at **University of São Paulo**, in São Carlos - SP, Brazil.
 
-```markdown
-Syntax highlighted code block
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec semper mi, at interdum nisi. Donec a rhoncus justo, ac dictum odio. Vestibulum mauris nunc, tincidunt vitae magna vitae, tincidunt tincidunt justo. Nulla vel tortor ac lectus tempor ornare ut eget lorem. Sed feugiat vehicula sapien, id iaculis lectus lacinia at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus blandit nunc in maximus.
 
-# Header 1
-## Header 2
-### Header 3
+### Personal life and hobbies
 
-- Bulleted
-- List
+Nulla facilisi. Suspendisse bibendum iaculis risus quis sagittis. In consequat ornare tempus. Proin non est ante. Mauris non mi a velit accumsan lobortis eu eget felis. Etiam purus ipsum, eleifend eget posuere eget, rutrum vel libero. In non tincidunt sem, eu pellentesque purus. Phasellus et dui nec arcu ultrices egestas. Curabitur eget magna urna.
 
-1. Numbered
-2. List
+### My GitHub portfolio
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hikarikun92/hikarikun92.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Nullam bibendum at erat sed imperdiet. Donec convallis, sapien eget imperdiet laoreet, mauris ante sodales nisl, eu congue enim eros vel felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse vitae sem quis risus ullamcorper sodales in eu dolor. Aliquam volutpat leo et odio consequat, vitae congue orci ultricies. Sed quis leo eget nibh lobortis elementum accumsan id neque. Duis imperdiet laoreet lacus, ac lobortis urna hendrerit sit amet. Nulla vestibulum mollis est id vulputate.
