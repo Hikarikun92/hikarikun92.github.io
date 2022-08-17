@@ -6,9 +6,19 @@ Here, you can find a little bit about me and my work as a **software developer s
 
 ### Carreer
 
-My life as a software developer began in 2010, as I started my graduation course in Computer Engineering at **University of São Paulo**, in São Carlos - SP, Brazil.
+Before I even knew what software development was, I had some classes in school in which they taught us about the **Logo** programming language. I used to have a lot of fun coding the exercises in class and at home, and I loved seeing the drawings the Logo Turtle made on screen - I was implementing algorithms without even knowing it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec semper mi, at interdum nisi. Donec a rhoncus justo, ac dictum odio. Vestibulum mauris nunc, tincidunt vitae magna vitae, tincidunt tincidunt justo. Nulla vel tortor ac lectus tempor ornare ut eget lorem. Sed feugiat vehicula sapien, id iaculis lectus lacinia at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus blandit nunc in maximus.
+My life as a software developer began in 2010, as I started my graduation course in Computer Engineering at **University of São Paulo**, in São Carlos - SP, Brazil. There, we learned mostly 2 programming languages: **C** and **Java**. People had strong and divided opinions for them: some preferred the low-level, high-speed controls of C (and some went to C++), and some (like me) loved the high-level and easy features of Java.
+
+By the end of the graduation, I had to choose some optional classes to take in the last semesters, and that's when I discovered that there were classes in web development available. Soon, I got to learn the basics of Java EE, and that's what paved my way to where I am now.
+
+In my last semester, in July 2014, I got hired as an intern at Bluedotsoft, a small software development company in my city, and some months later got hired there as a full-time employee. Even though the company was small, I acquired a huge knowledge and experience there, working with projects with legacy and modern technologies: [an educational training software](http://geic.ufscar.br/site/), [a communication-support project for journalism and academic publications](https://pt.wikipedia.org/wiki/SACI_(software)), an educational iOS app (ABAcadabra - unfortunately, not available anymore), some ERP projects for different clients...
+
+In April 2016 I got hired by [Monitora](https://www.monitoratec.com.br/), where I currently work. There, I put my skills to work with further big challenges, working mostly for a global business aviation company from Europe, acting as a software developer for legacy and microservices applications. I further improved my development knowledge, working mostly with Java for the backend and JavaScript and ActionScript for the frontend. In 2020, I worked as a developer for some Brazilian companies and as a consultant for software architecture. In the same year, I started working on some projects for a global company responsible mainly for consumer credit reporting.
+
+### Work skills
+
+Phasellus sed lectus at velit vulputate convallis non scelerisque ligula. Ut vulputate arcu libero, eu viverra urna sagittis suscipit. Fusce pretium accumsan volutpat. Duis ac nunc a massa euismod sagittis ac sit amet sem. Sed laoreet neque risus, molestie venenatis elit elementum nec. Quisque sodales nunc interdum, volutpat diam ut, egestas metus. Vivamus maximus convallis eleifend. Phasellus auctor eros eu lobortis mattis. Morbi vitae nisi ligula.
 
 ### Personal life and hobbies
 
