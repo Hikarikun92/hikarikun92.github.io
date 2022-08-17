@@ -18,7 +18,33 @@ In April 2016 I got hired by [Monitora](https://www.monitoratec.com.br/), where 
 
 ### Work skills
 
-Phasellus sed lectus at velit vulputate convallis non scelerisque ligula. Ut vulputate arcu libero, eu viverra urna sagittis suscipit. Fusce pretium accumsan volutpat. Duis ac nunc a massa euismod sagittis ac sit amet sem. Sed laoreet neque risus, molestie venenatis elit elementum nec. Quisque sodales nunc interdum, volutpat diam ut, egestas metus. Vivamus maximus convallis eleifend. Phasellus auctor eros eu lobortis mattis. Morbi vitae nisi ligula.
+As a software developer, my main skills involve coding desktop and web applications, in both frontend and backend. I have knowledge in the following programming languages:
+* Java (certified with Oracle's 1Z0-819-J exam)
+* Kotlin
+* Python
+* JavaScript
+* Go
+* C
+* ActionScript
+* C#
+* Objective-C
+
+At work, I have used mainly Java and JavaScript, with some quick tasks done in Python, ActionScript and Objective-C; outside of work, I have used the languages mostly in personal projects, some of them being available in my GitHub profile.
+
+As for other tools, I have mainly worked with or studied:
+* Libraries and frameworks: Java EE 6 and 7, Spring and Spring Boot (Java); Flask (Python); Gorilla Mux (Go); NodeJS, ReactJS, jQuery (JavaScript); PrimeFaces (JavaScript + Java); Adobe Flash + Apache Flex (ActionScript + Java)
+* Databases: SQL (MySQL, PostgreSQL and Oracle) and NoSQL (MongoDB and Redis)
+* Integration: SOAP and REST web services; messaging (JMS and Apache Kafka)
+* Automated Tests: unit tests with JUnit, Python and Go; integration tests with Spring Test
+* Mobile development: a little experience in Android (Java/Kotlin) and iOS (Objective-C) development
+
+### Other skills
+
+Besides the knowledge I have for work, I usually try to develop new skills as a hobby or just out of curiosity. Some things I did as personal goals:
+* Languages: I'm fluent in Portuguese and English, and am currently learning German.
+* Translation: I once added Portuguese subtitles to [The Legend of Zelda animated series](https://www.youtube.com/playlist?list=PLz-D1VRRcnVChjsfpp8HRw5-2R4_crF0D) along with some friends; I also started fan-translating some games from The Legend of Zelda and Ace Attorney series, but didn't get to release them.
+* Video and audio editing: I like to create comedy videos and audios, mostly by editing existing ones in order to create funny mashups and remixes.
+* Instruments: I used to play the piano, guitar and recorder (flute). It's been a long time since I've last played any of them, though. 
 
 ### Personal life and hobbies
 
